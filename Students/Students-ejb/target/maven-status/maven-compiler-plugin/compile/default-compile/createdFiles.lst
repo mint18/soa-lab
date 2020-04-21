@@ -1,0 +1,10 @@
+controllers\AddController.class
+controllers\ImageController.class
+model\StudentDAO.class
+file_encoders\Base64_Encoder.class
+model\Course.class
+model\Student.class
+controllers\FindController.class
+model\ImageDAO.class
+controllers\UpdateController.class
+controllers\RemoveController.class
